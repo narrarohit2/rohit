@@ -7,9 +7,13 @@ if(n%2==0)
 {
 printf("Even");
 }
+else if(n<0)
+{
+printf("invalid");
+}
 else
 {
-printf("Odd");
+  printf("Odd");
 }
 return 0;
 }
