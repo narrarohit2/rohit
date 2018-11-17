@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-long int n;
-scanf("%ld,&n);
+int n;
+scanf("%d,&n);
 if(n%2==0)
 {
 printf("Even");
