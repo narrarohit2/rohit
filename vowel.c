@@ -15,5 +15,5 @@ else
 {
 printf("Consonant);
 }
-retirn 0;
+return 0;
 }
