@@ -9,7 +9,7 @@ printf("Positive");
 }
 else if(n<0)
 {
-printf("Negaive");
+printf("Negative");
 }
 else
 {
