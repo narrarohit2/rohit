@@ -2,7 +2,6 @@
 int main()
 {
 char x;
-printf("enter the charackter");
 scanf("%c",&x);
 if(x>='a'&&x<='z')
 {
