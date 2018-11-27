@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+char x;
+printf("enter the charackter");
+scanf("%c",&x);
+if(x>='a'&&x<='z')
+{
+printf("alphabet");
+}
+else
+{
+printf("no");
+}
+return 0;
+}
