@@ -4,7 +4,7 @@ int main()
 int n,reverse=0,t;
 scanf("%d",&n);
 t=n;
-while(t!==0)
+while(t!=0)
 {
 reverse=reverse*10;
 reverse=reverse+t%10;
