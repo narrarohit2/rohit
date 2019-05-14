@@ -3,7 +3,8 @@ import java.io.*;
 import java.lang.*;
 public class main{
 public static void main(String args[])throws java.lang.Exception{
-int a,b[100],i,max;
+int a,i,max;
+int []b = new int[100];
 Scanner sc=new Scanner(System.in);
 a=sc.nextInt();
 for(i=0;i<a;i++)
