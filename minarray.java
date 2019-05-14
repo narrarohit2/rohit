@@ -14,7 +14,7 @@ b[i]=sc.nextInt();
 min=b[0];
 for(i=1;i<a;i++)
 {
-if(b[i]<max)
+if(b[i]<min)
 {
 min=b[i];
 }
