@@ -23,6 +23,7 @@ a[i]=a[j];
 a[j]=temp;
 }
 }
+}
 for(i=0;i<n;i++)
 {
 System.out.print(a[i]);
