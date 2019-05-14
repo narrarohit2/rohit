@@ -1,7 +1,8 @@
 import java.util.*;
 import java.io.*;
+import java.lang.*;
 public class main{
-public static void main(String args[]){
+public static void main(String args[]) throws java.lang.Exception{
 int n,a,d;
 Scanner sc=new Scanner(System.in);
 n=sc.nextInt();
