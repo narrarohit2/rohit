@@ -1,5 +1,5 @@
 import java.util.*;
-import java.io.*
+import java.io.*;
 public class main{
 public static void main(String args[]){
 int n,a,d;
