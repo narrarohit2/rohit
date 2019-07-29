@@ -9,6 +9,6 @@ int n;
 Scanner sc = new Scanner(System.in);
 a = sc.next();
 n=a.length();
-system.out.print(n);
+System.out.print(n);
 }
 }
